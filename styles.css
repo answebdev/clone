@@ -1105,7 +1105,7 @@ main {
   .info {
     padding-top: 450px;
     padding-bottom: 450px;
-    background: url(/pub-assets/fileuploads/images/pre-6/bg-1.png) center
+    background: url(./pub-assets/fileuploads/images/pre-6/bg-1.png) center
       center/cover no-repeat;
   }
   .info br {
@@ -1169,7 +1169,7 @@ main {
 .section-bg {
   display: none;
   padding: 200px 0;
-  background: url(/pub-assets/fileuploads/images/pre-6/grapefruit_row.png) 25%
+  background: url(./pub-assets/fileuploads/images/pre-6/grapefruit_row.png) 25%
     100% / cover no-repeat;
 }
 .section-bg h3 {
@@ -1262,7 +1262,7 @@ main {
   width: 50px;
   height: 50px;
   display: block;
-  background: url(/pub-assets/fileuploads/images/pre-6/grapefruit.png) center
+  background: url(./pub-assets/fileuploads/images/pre-6/grapefruit.png) center
     center/cover no-repeat;
   position: absolute;
   top: 0;
@@ -1329,7 +1329,7 @@ main {
   width: 35px;
   height: 55px;
   display: block;
-  background: url(/pub-assets/fileuploads/images/pre-6/check.png) center
+  background: url(./pub-assets/fileuploads/images/pre-6/check.png) center
     center/cover no-repeat;
   position: absolute;
   top: 20px;
@@ -1430,7 +1430,7 @@ main {
 .guarantee {
   padding: 60px 30px 110px;
   margin: 0 !important;
-  background: url(/pub-assets/fileuploads/images/pre-6/bg_texture.png) center
+  background: url(./pub-assets/fileuploads/images/pre-6/bg_texture.png) center
     center/cover no-repeat;
   font-size: 24px;
   font-family: Actor, sans-serif;
